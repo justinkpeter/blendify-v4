@@ -12,10 +12,16 @@
     "autoprefixer": "10.4.14",
     "eslint": "8.43.0",
     "eslint-config-next": "13.4.7",
+    "locomotive-scroll": "^4.1.4",
     "next": "13.4.7",
+    "next-auth": "^4.22.1",
     "postcss": "8.4.24",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "tailwindcss": "3.3.2"
+    "react-locomotive-scroll": "^0.2.2",
+    "spotify-web-api-node": "^5.0.2",
+    "tailwindcss": "3.3.2",
+    "three": "^0.135.0",
+    "vanta": "^0.5.24"
   }
 }
